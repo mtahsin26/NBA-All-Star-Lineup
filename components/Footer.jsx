@@ -7,7 +7,7 @@ export default function Footer() {
           SB
         </div>
         <span className="font-bold tracking-wider text-white text-xs uppercase">
-          NBA All Star Lineup<span className="text-brand-orange">Builder</span>
+          NBA All Star Lineup <span className="text-brand-orange">Builder</span>
         </span>
       </div>
 
